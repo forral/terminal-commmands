@@ -18,6 +18,7 @@
 
 ## Keep computer from sleeping
 1 hour = (60 minutes/hour) × (60 seconds/minute) = 3600 seconds/hour
+
 7200 seconds it's 2 hours
 
 `$ caffeinate -u -t 7200`
