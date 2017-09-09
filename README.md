@@ -15,3 +15,7 @@
 ## Built-in camera macbook pro not working
 
 `$ sudo killall VDCAssistant`
+
+## Keep computer from sleeping
+
+`$ caffeinate -u -t 7200`
