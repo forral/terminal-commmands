@@ -10,6 +10,11 @@
 
 `$ airport -s`
 
+## Traceroute
+displaying the path and measuring transit delays of packets across an Internet Protocol (IP) 
+
+`$ traceroute www.google.com`
+
 ---
 
 ## Built-in camera macbook pro not working
